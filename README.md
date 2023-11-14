@@ -8,5 +8,5 @@
 </lo>
 <br>
 <br>
-<img src="">
+<img src="https://github.com/Josetelma/Cartao-Animado/blob/main/assets/img.JPG?raw=true">
 
