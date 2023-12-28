@@ -1,4 +1,4 @@
-<h1>Projeto Cartão Animado</h1>
+<h1>Projeto Cartão Animado🎂🎁🎉</h1>
 <h2>O projeto 'Cartão de Animado de Aniversário' representa uma abordagem envolvente e descontraída para expressar desejos de aniversário ao destinatário, utilizando as linguagens HTML e CSS para criar uma experiência divertida e cheia de humor.</h2>
 <br>
 <h2>Linguagens Utilizadas:</h2>
